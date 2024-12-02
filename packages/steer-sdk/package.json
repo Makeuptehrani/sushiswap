@@ -57,12 +57,12 @@
     "preset": "@sushiswap/jest-config/node"
   },
   "dependencies": {
-    "@steerprotocol/contracts": "2.1.0-beta.14",
+    "@steerprotocol/contracts": "3.0.9",
     "@sushiswap/database": "workspace:*",
     "@whatwg-node/fetch": "0.8.4",
     "sushi": "workspace:*",
     "tslib": "latest",
-    "viem": "1.21.4"
+    "viem": "2.15.1"
   },
   "devDependencies": {
     "@sushiswap/jest-config": "workspace:*",
