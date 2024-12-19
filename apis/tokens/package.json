@@ -29,13 +29,13 @@
     "@sushiswap/default-token-list": "^43.1.0",
     "@sushiswap/wagmi-config": "workspace:*",
     "@upstash/redis": "1.22.1",
-    "@vercel/node": "3.0.9",
-    "@wagmi/core": "1.4.13",
+    "@vercel/node": "4.0.0",
+    "@wagmi/core": "2.0.1",
     "drizzle-orm": "^0.29.5",
     "postgres": "^3.4.3",
     "sushi": "workspace:*",
-    "viem": "1.21.4",
-    "zod": "3.21.4"
+    "viem": "2.15.1",
+    "zod": "3.22.3"
   },
   "devDependencies": {
     "@sushiswap/jest-config": "workspace:*",
