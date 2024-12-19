@@ -30,7 +30,7 @@
     "@sushiswap/wagmi-config": "workspace:*",
     "@upstash/redis": "1.22.1",
     "@vercel/node": "4.0.0",
-    "@wagmi/core": "2.0.1",
+    "@wagmi/core": "2.11.8",
     "drizzle-orm": "^0.29.5",
     "postgres": "^3.4.3",
     "sushi": "workspace:*",
