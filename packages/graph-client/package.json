@@ -47,7 +47,7 @@
     "@graphprotocol/client-cli": "3.0.0",
     "@graphql-mesh/transform-filter-schema": "0.102.12",
     "@graphql-mesh/transform-prefix": "0.96.6",
-    "@graphql-mesh/transform-prune": "0.96.6",
+    "@graphql-mesh/transform-prune": "0.102.12",
     "@graphql-mesh/transform-rename": "0.96.7",
     "@graphql-mesh/transform-type-merging": "0.102.12",
     "@graphql-tools/merge": "9.0.3",
