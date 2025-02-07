@@ -36,7 +36,7 @@
     "express": "4.21.2",
     "sushi": "workspace:*",
     "viem": "2.15.1",
-    "wagmi": "2.10.11",
+    "wagmi": "2.12.23",
     "zod": "3.22.3"
   },
   "devDependencies": {
