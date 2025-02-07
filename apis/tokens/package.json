@@ -29,7 +29,7 @@
     "@sushiswap/default-token-list": "^43.1.0",
     "@sushiswap/wagmi-config": "workspace:*",
     "@upstash/redis": "1.22.1",
-    "@vercel/node": "4.0.0",
+    "@vercel/node": "5.0.2",
     "@wagmi/core": "2.11.8",
     "drizzle-orm": "^0.29.5",
     "postgres": "^3.4.3",
