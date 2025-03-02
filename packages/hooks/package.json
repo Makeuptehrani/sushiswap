@@ -28,7 +28,7 @@
   },
   "dependencies": {
     "@ethersproject/address": "5.7.0",
-    "@ethersproject/providers": "5.7.2",
+    "@ethersproject/providers": "5.8.0",
     "copy-to-clipboard": "3.3.3",
     "react-responsive": "9.0.0-beta.10"
   },
