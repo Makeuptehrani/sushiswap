@@ -44,7 +44,7 @@
     "prepublishOnly": "pnpm build"
   },
   "dependencies": {
-    "@steerprotocol/contracts": "2.1.0-beta.14",
+    "@steerprotocol/contracts": "3.0.9",
     "sushi": "catalog:web3",
     "viem": "catalog:web3"
   },
