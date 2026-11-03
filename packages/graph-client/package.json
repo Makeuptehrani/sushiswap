@@ -66,11 +66,11 @@
   "dependencies": {
     "@sushiswap/steer-sdk": "workspace:*",
     "gql.tada": "1.7.5",
-    "graphql": "16.6.0",
-    "graphql-request": "7.1.0",
+    "graphql": "16.8.1",
+    "graphql-request": "7.1.1",
     "json-bigint": "1.0.0",
     "sushi": "catalog:web3",
-    "viem": "catalog:web3"
+    "viem": "2.50.3"
   },
   "devDependencies": {
     "@0no-co/graphqlsp": "1.12.3",
